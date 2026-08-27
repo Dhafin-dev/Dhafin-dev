@@ -9,7 +9,7 @@
     <a href="mailto:ahmad.dhafin.al-2024@fst.unair.ac.id">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/bukandafin">
+    <a href="https://instagram.com/ahmdafin">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Dhafin-dev&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -85,12 +85,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhafin-dev&show_icons=true&theme=radical&hide_border=true&title_color=00bcd4&icon_color=00bcd4&text_color=e0e0e0&bg_color=0d1117" alt="Dhafin's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhafin-dev&theme=radical&hide_border=true&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4&background=0d1117" alt="Dhafin's Streak Stats" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhafin-dev&layout=compact&theme=radical&hide_border=true&title_color=00bcd4&text_color=e0e0e0&bg_color=0d1117" alt="Top Languages" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Dhafin-dev&show_icons=true&theme=radical&hide_border=true&title_color=00bcd4&icon_color=00bcd4&text_color=e0e0e0&bg_color=0d1117" alt="Dhafin's GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhafin-dev&layout=compact&theme=radical&hide_border=true&title_color=00bcd4&text_color=e0e0e0&bg_color=0d1117" alt="Top Languages" height="175" />
 </div>
 
 ---
@@ -98,7 +94,7 @@
 ### 📬 Let's Connect!
 
 - 💼 **LinkedIn:** [ahmad-dhafin-al-farisy](https://linkedin.com/in/ahmad-dhafin-al-farisy-a4aa96320/)
-- 📷 **Instagram:** [@bukandafin](https://instagram.com/bukandafin)
+- 📷 **Instagram:** [@ahmdafin](https://instagram.com/ahmdafin)
 - ✉️ **Academic Email:** [ahmad.dhafin.al-2024@fst.unair.ac.id](mailto:ahmad.dhafin.al-2024@fst.unair.ac.id)
 - ✉️ **Personal / Inquiries:** [tugasdhafinbsa@gmail.com](mailto:tugasdhafinbsa@gmail.com)
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=Ahmad%20Dhafin%20Al%20Farisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Duta%20FST%20UNAIR%202026%20%7C%20Tech%20aEnthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=Ahmad%20Dhafin%20Al%20Farisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Duta%20FST%20UNAIR%202026%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://linkedin.com/in/ahmad-dhafin-al-farisy-a4aa96320/">

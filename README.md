@@ -12,7 +12,9 @@
     <a href="https://instagram.com/ahmdafin">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Dhafin-dev&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/Dhafin-dev?tab=followers">
+      <img src="https://img.shields.io/github/followers/Dhafin-dev?label=Follow%20Me&style=for-the-badge&logo=github&color=181717" alt="Follow on GitHub" />
+    </a>
   </p>
 
   <p align="center">

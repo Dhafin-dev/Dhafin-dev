@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Ahmad%20Dhafin%20Al%20Farisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Duta%20FST%20UNAIR%202026%20%7C%20Tech%20Innovator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=Ahmad%20Dhafin%20Al%20Farisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Duta%20FST%20UNAIR%202026%20%7C%20Tech%20Innovator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://linkedin.com/in/ahmad-dhafin-al-farisy-a4aa96320/">
@@ -9,7 +9,7 @@
     <a href="mailto:ahmad.dhafin.al-2024@fst.unair.ac.id">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/ahmdafin">
+    <a href="https://instagram.com/ahmdhafin">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://github.com/Dhafin-dev?tab=followers">
@@ -96,7 +96,7 @@
 ### 📬 Let's Connect!
 
 - 💼 **LinkedIn:** [ahmad-dhafin-al-farisy](https://linkedin.com/in/ahmad-dhafin-al-farisy-a4aa96320/)
-- 📷 **Instagram:** [@ahmdafin](https://instagram.com/ahmdafin)
+- 📷 **Instagram:** [@ahmdhafin](https://instagram.com/ahmdhafin)
 - ✉️ **Academic Email:** [ahmad.dhafin.al-2024@fst.unair.ac.id](mailto:ahmad.dhafin.al-2024@fst.unair.ac.id)
 - ✉️ **Personal / Inquiries:** [tugasdhafinbsa@gmail.com](mailto:tugasdhafinbsa@gmail.com)
 

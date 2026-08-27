@@ -66,13 +66,17 @@
 <img src="https://img.shields.io/badge/Robotics-4B0082?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics" />
 
 #### **Design, Media & Productivity**
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 
 #### **Leadership & Interpersonal**
-`Public Speaking & MC` • `Event Management` • `Team Leadership` • `Social & Environmental Advocacy` • `Cross-team Communication`
+<img src="https://img.shields.io/badge/Public%20Speaking%20%26%20MC-5865F2?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Public Speaking & MC" />
+<img src="https://img.shields.io/badge/Event%20Management-FF5722?style=for-the-badge&logo=eventstore&logoColor=white" alt="Event Management" />
+<img src="https://img.shields.io/badge/Team%20Leadership-20B2AA?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="Team Leadership" />
+<img src="https://img.shields.io/badge/SDGs%20%26%20Social%20Impact-2E7D32?style=for-the-badge&logo=the-conservationist&logoColor=white" alt="SDGs & Social Impact" />
+<img src="https://img.shields.io/badge/Cross--Team%20Communication-8E24AA?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Cross-Team Communication" />
 
 </div>
 

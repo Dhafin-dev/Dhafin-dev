@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=Ahmad%20Dhafin%20Al%20Farisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Duta%20FST%20UNAIR%202026%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/ahmad-dhafin-al-farisy-a4aa96320/">
+    <a href="https://www.linkedin.com/in/ahmdhafin/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:ahmad.dhafin.al-2024@fst.unair.ac.id">
@@ -95,7 +95,7 @@
 
 ### 📬 Let's Connect!
 
-- 💼 **LinkedIn:** [ahmad-dhafin-al-farisy](https://linkedin.com/in/ahmad-dhafin-al-farisy-a4aa96320/)
+- 💼 **LinkedIn:** [ahmdhafin](https://www.linkedin.com/in/ahmdhafin/)
 - 📷 **Instagram:** [@ahmdhafin](https://instagram.com/ahmdhafin)
 - ✉️ **Academic Email:** [ahmad.dhafin.al-2024@fst.unair.ac.id](mailto:ahmad.dhafin.al-2024@fst.unair.ac.id)
 - ✉️ **Personal / Inquiries:** [tugasdhafinbsa@gmail.com](mailto:tugasdhafinbsa@gmail.com)

@@ -1,26 +1,19 @@
-<svg fill="none" viewBox="0 0 800 230" width="100%" height="230" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 180" width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; box-sizing: border-box; padding: 10px 14px; font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; position: relative;">
       
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700;800;900&amp;family=Space+Grotesk:wght@500;600;700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
 
-        .dark-hero {
+        .header-wrap {
           position: relative;
           width: 100%;
-          max-width: 770px;
-          background: linear-gradient(145deg, #161b22 0%, #0d1117 100%);
-          border: none;
-          border-radius: 18px;
-          padding: 24px 26px;
-          box-sizing: border-box;
+          max-width: 800px;
           display: flex;
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          text-align: center;
-          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
-          overflow: hidden;
+          background: transparent;
         }
 
         .top-tag {
@@ -31,45 +24,47 @@
           font-size: 11px;
           font-weight: 700;
           letter-spacing: 1px;
-          color: #8b949e;
-          background: #21262d;
-          border: none;
-          padding: 4px 12px;
+          color: #475569;
+          background: rgba(15, 23, 42, 0.06);
+          border: 1px solid rgba(15, 23, 42, 0.14);
+          padding: 3px 12px;
           border-radius: 20px;
-          margin-bottom: 10px;
+          margin-bottom: 8px;
           text-transform: uppercase;
         }
 
         .status-dot {
-          width: 7px;
-          height: 7px;
+          width: 6px;
+          height: 6px;
           border-radius: 50%;
-          background: #2ea043;
+          background: #10b981;
         }
 
         .name-title {
           font-family: 'Outfit', sans-serif;
-          font-size: 42px;
+          font-size: 46px;
           font-weight: 900;
           margin: 0 0 6px 0;
           letter-spacing: -0.02em;
-          background: linear-gradient(135deg, #38bdf8 0%, #818cf8 50%, #fbbf24 100%);
+          background: linear-gradient(135deg, #0284c7 0%, #4338ca 50%, #d97706 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
+          filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.22));
         }
 
         .subtitle {
           font-family: 'Space Grotesk', monospace;
-          font-size: 13.5px;
+          font-size: 14px;
           font-weight: 600;
-          color: #8b949e;
-          margin-bottom: 16px;
+          color: #334155;
+          margin-bottom: 15px;
           letter-spacing: 0.3px;
+          filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.08));
         }
 
         .subtitle span {
-          color: #f59e0b;
-          font-weight: 700;
+          color: #d97706;
+          font-weight: 800;
         }
 
         .badge-row {
@@ -90,33 +85,36 @@
           font-weight: 700;
           font-family: 'Space Grotesk', monospace;
           letter-spacing: 0.3px;
-          border: none;
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
         }
 
         .badge-gold {
-          background: rgba(245, 158, 11, 0.16);
-          color: #fbbf24;
+          background: rgba(245, 158, 11, 0.08);
+          border: 1.5px solid #d97706;
+          color: #b45309;
         }
 
         .badge-blue {
-          background: rgba(56, 189, 248, 0.16);
-          color: #38bdf8;
+          background: rgba(37, 99, 235, 0.08);
+          border: 1.5px solid #2563eb;
+          color: #1d4ed8;
         }
 
         .badge-emerald {
-          background: rgba(16, 185, 129, 0.16);
-          color: #34d399;
+          background: rgba(16, 185, 129, 0.08);
+          border: 1.5px solid #059669;
+          color: #047857;
         }
       </style>
 
-      <div class="dark-hero">
+      <div class="header-wrap">
         <div class="top-tag">
           <span class="status-dot"></span>
           UNAIR NODE // SYSTEMS DEVELOPER &amp; RESEARCHER
         </div>
-        <h1 class="name-title">AHMAD DHAFIN AL FARISY</h1>
+        <h1 class="name-title">Ahmad Dhafin Al Farisy</h1>
         <div class="subtitle">
-          Undergraduate Information Systems @ <span>Universitas Airlangga</span> • Class of 2024
+          🎓 Undergraduate Information Systems @ <span>Universitas Airlangga</span> • Class of 2024
         </div>
         <div class="badge-row">
           <span class="badge-pill badge-gold">👑 Duta FST UNAIR 2026</span>

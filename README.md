@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DYNAMIC ANIMATED HEADER -->
-  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/header.svg?sanitize=true&v=20260830_bento_v1" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/header.svg?sanitize=true&v=20260830_indigo_v1" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
 
   <br/>
 
@@ -11,7 +11,7 @@
   <br/>
 
   <!-- ANIMATED TERMINAL -->
-  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/terminal.svg?sanitize=true&v=20260830_bento_v1" alt="Dhafin Terminal" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/terminal.svg?sanitize=true&v=20260830_indigo_v1" alt="Dhafin Terminal" width="100%" />
 
 </div>
 

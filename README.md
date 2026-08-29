@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DYNAMIC ANIMATED HEADER -->
-  <img src="./header.svg" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
+  <img src="./header.svg?v=2" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
 
   <br/>
 
@@ -11,7 +11,7 @@
   <br/>
 
   <!-- ANIMATED TERMINAL -->
-  <img src="./terminal.svg" alt="Dhafin Terminal" width="100%" />
+  <img src="./terminal.svg?v=2" alt="Dhafin Terminal" width="100%" />
 
 </div>
 

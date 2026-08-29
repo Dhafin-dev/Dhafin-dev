@@ -23,8 +23,8 @@
 - 👑 **Duta FST UNAIR 2026** (Faculty Ambassador, Academic Diplomacy & Student Role Model).
 - 🥇 **2x International Gold Medalist** in Applied Science, Robotics, & IoT (ISIF 2024 & I2ASPO 2024).
 - 🌐 **EF SET C2 Proficient** in English (Score **84/100**) & **UKBI 703** (Predikat Sangat Unggul - Kemendikbud).
-- 🔬 Research focus: **Autonomous Medical & Defense Robotics, Software Architecture, and Sustainable IoT Systems**.
-- 🤝 Actively contributing to **BEM FST UNAIR**, **SDGs Centre UNAIR**, and youth technological literacy initiatives.
+- 🔬 Research focus: **Autonomous and Sustainable IoT Systems**.
+- 🤝 Actively contributing for SDGs
 
 ---
 
@@ -48,7 +48,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🤖 Robot Medis MERI</h3>
       <p align="center"><strong>Gold Medal - ISIF 2024</strong></p>
-      <p>Robot otonom pengantar logistik dan obat-obatan medis ke ruang isolasi rumah sakit untuk mencegah transmisi infeksi nosokomial antara tenaga medis dan pasien infeksius.</p>
+      <p>Robot otonom pengantar logistik dan obat-obatan medis ke ruang isolasi rumah sakit untuk mencegah transmisi penyakit atau infeksi antara tenaga medis dan pasien infeksius.</p>
       <p><strong>Tech Stack:</strong> <code>Autonomous Navigation</code> <code>IoT Telemetry</code> <code>C++ / Arduino</code></p>
     </td>
     <td width="50%" valign="top">

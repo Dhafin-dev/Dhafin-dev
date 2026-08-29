@@ -8,7 +8,7 @@
   <!-- METRIC BADGES -->
   <p align="center">
     <a href="https://dhafin-dev.github.io">
-      <img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=050508" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/ahmdhafin/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,7 +19,7 @@
     <a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=00f3ff&style=for-the-badge&base=100" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&base=100" alt="Profile Views" />
   </p>
 
   <br/>
@@ -104,7 +104,7 @@
 <img src="https://img.shields.io/badge/Duta%20FST%20UNAIR%202026-f59e0b?style=for-the-badge&logo=crown&logoColor=black" alt="Duta FST" />
 <img src="https://img.shields.io/badge/Public%20Speaking-5865F2?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Public Speaking" />
 <img src="https://img.shields.io/badge/SDGs%20Advocacy-2E7D32?style=for-the-badge&logo=the-conservationist&logoColor=white" alt="SDGs" />
-<img src="https://img.shields.io/badge/BEM%20FST%20UNAIR-00bcd4?style=for-the-badge&logo=hive-blockchain&logoColor=black" alt="BEM FST" />
+<img src="https://img.shields.io/badge/BEM%20FST%20UNAIR-4f46e5?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="BEM FST" />
 
 </div>
 
@@ -113,14 +113,14 @@
 ### 📊 GitHub Activity & Real-time Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhafin-dev&show_icons=true&theme=radical&hide_border=true&title_color=00f3ff&icon_color=f59e0b&text_color=e2e8f0&bg_color=050508" alt="Dhafin's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhafin-dev&layout=compact&theme=radical&hide_border=true&title_color=00f3ff&text_color=e2e8f0&bg_color=050508" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhafin-dev&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=f59e0b&text_color=e2e8f0&bg_color=050508" alt="Dhafin's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhafin-dev&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=050508" alt="Top Languages" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhafin-dev&theme=radical&hide_border=true&background=050508&ring=00f3ff&fire=f59e0b&currStreakNum=00f3ff" alt="Dhafin's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Dhafin-dev&theme=radical&hide_border=true&background=050508&ring=2563eb&fire=f59e0b&currStreakNum=38bdf8" alt="Dhafin's Streak Stats" />
 </div>
 
 ---
@@ -129,7 +129,7 @@
 
 <p align="center">
   <a href="https://dhafin-dev.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Explore%20Interactive%20Portfolio-dhafin--dev.github.io-00f3ff?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Explore%20Interactive%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 

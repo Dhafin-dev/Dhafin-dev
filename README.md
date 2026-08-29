@@ -5,22 +5,8 @@
 
   <br/>
 
-  <!-- METRIC BADGES -->
-  <p align="center">
-    <a href="https://dhafin-dev.github.io">
-      <img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/ahmdhafin/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/ahmdhafin">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&base=100" alt="Profile Views" />
-  </p>
+  <!-- METRIC BADGES (ZERO UNDERLINE SPACING) -->
+  <p align="center"><a href="https://dhafin-dev.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/ahmdhafin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/ahmdhafin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&base=100" alt="Profile Views" /></p>
 
   <br/>
 
@@ -128,9 +114,7 @@
 ### 📬 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://dhafin-dev.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Explore%20Interactive%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge" alt="Portfolio" />
-  </a>
+  <a href="https://dhafin-dev.github.io"><img src="https://img.shields.io/badge/🌐%20Explore%20Interactive%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 <p align="center">

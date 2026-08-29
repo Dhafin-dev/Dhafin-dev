@@ -120,7 +120,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhafin-dev&theme=radical&hide_border=true&background=050508&ring=00f3ff&fire=f59e0b&currStreakNum=00f3ff" alt="Dhafin's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Dhafin-dev&theme=radical&hide_border=true&background=050508&ring=00f3ff&fire=f59e0b&currStreakNum=00f3ff" alt="Dhafin's Streak Stats" />
 </div>
 
 ---

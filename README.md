@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DYNAMIC ANIMATED HEADER -->
-  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/header.svg?sanitize=true&v=20260830_text_shadow_v1" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/header.svg?sanitize=true&v=20260830_pure_tech_v1" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
 
   <br/>
 
@@ -11,7 +11,7 @@
   <br/>
 
   <!-- ANIMATED TERMINAL -->
-  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/terminal.svg?sanitize=true&v=20260830_text_shadow_v1" alt="Dhafin Terminal" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/terminal.svg?sanitize=true&v=20260830_pure_tech_v1" alt="Dhafin Terminal" width="100%" />
 
 </div>
 
@@ -61,12 +61,6 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-
-#### **Leadership & Diplomacy**
-<img src="https://img.shields.io/badge/Duta%20FST%20UNAIR%202026-f59e0b?style=for-the-badge&logo=crown&logoColor=black" alt="Duta FST" />
-<img src="https://img.shields.io/badge/Public%20Speaking-5865F2?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Public Speaking" />
-<img src="https://img.shields.io/badge/SDGs%20Advocacy-2E7D32?style=for-the-badge&logo=the-conservationist&logoColor=white" alt="SDGs" />
-<img src="https://img.shields.io/badge/BEM%20FST%20UNAIR-4f46e5?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="BEM FST" />
 
 </div>
 

@@ -111,37 +111,36 @@
             <span class="dot dot-yellow"></span>
             <span class="dot dot-green"></span>
           </div>
-          <div class="terminal-title">dhafin@unair-node: ~ (zsh)</div>
+          <div class="terminal-title">dhafin@tech-node: ~ (zsh)</div>
           <div style="width: 45px;"></div>
         </div>
 
         <div class="terminal-body">
           <div>
-            <span class="prompt">dhafin@unair:~$</span> <span class="cmd">whoami</span>
+            <span class="prompt">dhafin@core:~$</span> <span class="cmd">whoami</span>
           </div>
           <div class="res-text">
-            &gt; <span class="highlight-cyan">Ahmad Dhafin Al Farisy</span> (Undergraduate Researcher &amp; Systems Developer)
+            &gt; <span class="highlight-cyan">Ahmad Dhafin Al Farisy</span> (Full-Stack Systems &amp; Robotics Engineer)
           </div>
 
           <div>
-            <span class="prompt">dhafin@unair:~$</span> <span class="cmd">cat current_status.json</span>
+            <span class="prompt">dhafin@core:~$</span> <span class="cmd">cat tech_focus.json</span>
           </div>
           <div class="res-text">
-            &gt; <span class="highlight-gold">Role:</span> Duta FST UNAIR 2026 | BEM FST | SDGs Centre UNAIR<br/>
-            &gt; <span class="highlight-gold">Affiliation:</span> Universitas Airlangga (Class of 2024–2028)<br/>
-            &gt; <span class="highlight-gold">Honors:</span> 2x International Gold Medals (ISIF 2024 &amp; I2ASPO 2024)
+            &gt; <span class="highlight-gold">Domains:</span> Autonomous Medical Robotics, IoT Telemetry, Web Systems<br/>
+            &gt; <span class="highlight-gold">Core Stack:</span> JavaScript, Python, C++, PHP, PostgreSQL, Supabase
           </div>
 
           <div>
-            <span class="prompt">dhafin@unair:~$</span> <span class="cmd">get-certifications --all</span>
+            <span class="prompt">dhafin@core:~$</span> <span class="cmd">get-innovations --featured</span>
           </div>
           <div class="res-text">
-            &gt; <span class="highlight-green">English:</span> EF SET C2 Proficient (84/100) &amp; ELPT UNAIR 557 pts<br/>
-            &gt; <span class="highlight-green">Indonesian:</span> UKBI 703 (Predikat Sangat Unggul - Kemendikbud)
+            &gt; <span class="highlight-green">[1] MERI:</span> Autonomous Hospital Isolation Delivery Robot<br/>
+            &gt; <span class="highlight-green">[2] ATP Biawak:</span> Tactical All-Terrain Reconnaissance UGV
           </div>
 
           <div>
-            <span class="prompt">dhafin@unair:~$</span> <span class="cmd">curl -s https://dhafin-dev.github.io</span> <span class="cursor-blink"></span>
+            <span class="prompt">dhafin@core:~$</span> <span class="cmd">curl -s https://dhafin-dev.github.io</span> <span class="cursor-blink"></span>
           </div>
         </div>
 

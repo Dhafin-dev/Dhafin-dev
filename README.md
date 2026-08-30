@@ -6,7 +6,7 @@
   <br/>
 
   <!-- METRIC BADGES (ZERO UNDERLINE SPACING) -->
-  <p align="center"><a href="https://dhafin-dev.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/ahmdhafin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/ahmdhafin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&base=100" alt="Profile Views" /></p>
+  <p align="center"><a href="https://dhafin-dev.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/ahmdhafin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/ahmdhafin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&base=100" alt="Profile Views" /></p>
 
   <br/>
 
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmdhafin/">linkedin.com/in/ahmdhafin</a> &nbsp;|&nbsp;
-  📷 <strong>Instagram:</strong> <a href="https://instagram.com/ahmdhafin">@ahmdhafin</a> &nbsp;|&nbsp;
-  ✉️ <strong>Academic Email:</strong> <a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id">ahmad.dhafin.al.farisy-2023@fst.unair.ac.id</a>
+  <a href="https://www.linkedin.com/in/ahmdhafin/"><img src="https://img.shields.io/badge/LinkedIn-ahmdhafin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://instagram.com/ahmdhafin"><img src="https://img.shields.io/badge/Instagram-@ahmdhafin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

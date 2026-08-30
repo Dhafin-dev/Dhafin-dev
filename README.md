@@ -17,7 +17,7 @@
 
 ---
 
-### 🔬 Featured Innovations & Research
+### 🔬 Latest Innovations & Research
 
 <table>
   <tr>

@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- DYNAMIC ANIMATED HEADER -->
-  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/header.svg?sanitize=true&v=20260830_tight_spacing_v1" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
+  <img src="./header.svg?raw=true&v=20260830_live_v99" alt="Ahmad Dhafin Al Farisy Header" width="100%" />
 
   <!-- METRIC BADGES (ZERO UNDERLINE SPACING) -->
   <p align="center"><a href="https://dhafin-dev.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-dhafin--dev.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/ahmdhafin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://instagram.com/ahmdhafin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:ahmad.dhafin.al.farisy-2023@fst.unair.ac.id"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Dhafin-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&base=100" alt="Profile Views" /></p>
 
   <!-- ANIMATED TERMINAL -->
-  <img src="https://raw.githubusercontent.com/Dhafin-dev/Dhafin-dev/main/terminal.svg?sanitize=true&v=20260830_tight_spacing_v1" alt="Dhafin Terminal" width="100%" />
+  <img src="./terminal.svg?raw=true&v=20260830_live_v99" alt="Dhafin Terminal" width="100%" />
 
 </div>
 

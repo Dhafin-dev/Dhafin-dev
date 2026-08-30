@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 395" width="100%" height="395" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 350" width="100%" height="350" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; padding: 4px 14px; box-sizing: border-box; display: flex; justify-content: center; align-items: center;">
       
@@ -8,7 +8,7 @@
         .terminal-window {
           width: 100%;
           max-width: 740px;
-          border-radius: 18px;
+          border-radius: 16px;
           background: linear-gradient(135deg, rgba(8, 14, 26, 0.96) 0%, rgba(3, 7, 18, 0.98) 100%);
           border: 1px solid rgba(0, 243, 255, 0.35);
           box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5), 0 0 30px rgba(0, 243, 255, 0.15), inset 0 0 20px rgba(0, 243, 255, 0.04);
@@ -38,7 +38,7 @@
           display: flex;
           align-items: center;
           justify-content: space-between;
-          padding: 12px 18px;
+          padding: 10px 16px;
           border-bottom: 1px solid rgba(0, 243, 255, 0.18);
           background: rgba(4, 9, 20, 0.7);
         }
@@ -50,16 +50,16 @@
         .dot-green { background: #10b981; box-shadow: 0 0 6px rgba(16, 185, 129, 0.6); }
 
         .terminal-title {
-          font-size: 12px;
+          font-size: 11.5px;
           color: #94a3b8;
           font-weight: 500;
           letter-spacing: 0.5px;
         }
 
         .terminal-body {
-          padding: 18px 22px;
-          font-size: 13px;
-          line-height: 1.6;
+          padding: 14px 20px;
+          font-size: 12.5px;
+          line-height: 1.55;
           color: #cbd5e1;
         }
 
@@ -76,8 +76,8 @@
 
         .res-text {
           color: #94a3b8;
-          margin-bottom: 10px;
-          padding-left: 14px;
+          margin-bottom: 8px;
+          padding-left: 12px;
         }
 
         .highlight-gold { color: #fbbf24; font-weight: 600; }
@@ -87,8 +87,8 @@
 
         .cursor-blink {
           display: inline-block;
-          width: 8px;
-          height: 14px;
+          width: 7px;
+          height: 13px;
           background: #00f3ff;
           vertical-align: middle;
           margin-left: 4px;
